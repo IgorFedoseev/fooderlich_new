@@ -34,7 +34,7 @@ class TodayRecipeListView extends StatelessWidget {
           const SizedBox(height: 16),
           // 7
           Container(
-            height: 400,
+            height: 370,
             // 1
             color: Colors.transparent,
             // 2
